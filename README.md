@@ -6,7 +6,7 @@ Modelos de clasificación orientados a la detección temprana de fraude. Incluye
 Este proyecto está enfocado en el desarrollo y evaluación de modelos de clasificación orientados a la detección temprana de fraude. 
 
 ## Contenido del Repositorio:
-* **`Deteccion_Fraude.ipynb`**: Notebook con el análisis exploratorio de datos (EDA), preprocesamiento y entrenamiento de los modelos.
-* **`Deteccion_Fraude.html`**: Versión en HTML con el código ejecutado y los resultados visibles directamente.
-* **`datos_fraude.csv`**: Base de datos generada y utilizada para el proyecto.
-* **`Presentacion_Proyecto.pptx`**: Diapositivas con el resumen ejecutivo, metodología y conclusiones.
+* **`Entrega final fraude-estefanny-miguel.ipynb`**: Notebook con el análisis exploratorio de datos (EDA), preprocesamiento y entrenamiento de los modelos.
+* **`HTML _ Entrega final fraude-estefanny-miguel...`**: Versión en HTML con el código ejecutado y los resultados visibles directamente.
+* **`submission_logistica_balanceada.csv`**: Base de datos generada y utilizada para el proyecto.
+* **`Metodos supervisados - Modelos de Fraude - ...`**: Diapositivas con el resumen ejecutivo, metodología y conclusiones.
