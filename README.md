@@ -7,6 +7,6 @@ Este proyecto está enfocado en el desarrollo y evaluación de modelos de clasif
 
 ## Contenido del Repositorio:
 * **`Entrega final fraude-estefanny-miguel.ipynb`**: Notebook con el análisis exploratorio de datos (EDA), preprocesamiento y entrenamiento de los modelos.
-* **`HTML _ Entrega final fraude-estefanny-miguel...`**: Versión en HTML con el código ejecutado y los resultados visibles directamente.
+* **`HTML _ Entrega final fraude-estefanny-miguel.html`**: Versión en HTML con el código ejecutado y los resultados visibles directamente.
 * **`submission_logistica_balanceada.csv`**: Base de datos generada y utilizada para el proyecto.
-* **`Metodos supervisados - Modelos de Fraude - ...`**: Diapositivas con el resumen ejecutivo, metodología y conclusiones.
+* **`Metodos supervisados - Modelos de Fraude - Estefanny Ruiz-Miguel Alarcón.pptx`**: Diapositivas con el resumen ejecutivo, metodología y conclusiones.
